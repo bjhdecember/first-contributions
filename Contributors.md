@@ -7,6 +7,7 @@
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
+- [Nico Calderon](https://github.com/ncalderon16)
 - [AlexRussss]
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [Parth Sharma](https://github.com/pxs4528)
@@ -33,6 +34,7 @@
 - [Eklemis](https://github.com/eklemis)
 - [Ambar Avalos](https://github.com/ambar12345)
 - [Jainex 😄](https://github.com/Jainex17)
+- [Yasith Fernando] (https://github.com/yasithfernando)
 - [Ritwij Kashyap](https://github.com/ritwij-kp)
 - [Navendu Bahukhandi](https://github.com/Ashxarya)
 - [Moi 😄](https://github.com/12moi)
@@ -159,6 +161,7 @@
 - [Lumbani Makumbi](https://github.com/makumbilumbani)
 - [Abhay Shankar](https://github.com/Abhay478)
 - [Sharat Katwa](https://github.com/sharatkatwa)
+- [C.J. Torgerson](https://github.com/ctorgerson10)
 - [Anwar isak](https://github.com/anwarisak)
   [Kartik khode](https://github.com/Kartiklk)
   [Matheus Telino](https://github.com/matheustelino)
@@ -338,6 +341,7 @@
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
 - Tosif Khan
+- Jax Gates
 - [Preeti Raj](https://github.com/Preetiraj3697)
 - [Abel Diress](https://github.com/abeldiress)
 - [Gopal Pandey](https://github.com/Ahamasmi)
